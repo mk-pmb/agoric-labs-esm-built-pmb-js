@@ -1,0 +1,41 @@
+{ "name": "agoric-labs-esm-built-pmb",
+  "version": "0.0.1",
+  "description": "esm from Agoric Labs (forked from standard-things) packaged for npm.",
+  "keywords": [
+    "esm"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/agoric-labs-esm-built-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/agoric-labs-esm-built-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/agoric-labs-esm-built-pmb-js/issues"
+  },
+  "contributors": [
+    "John-David Dalton <john.david.dalton@gmail.com>",
+    "Agoric Labs (https://github.com/agoric-labs/esm/)"
+  ],
+
+  "private": false, "license": "MIT",
+
+  "main": "esm.js",
+  "scripts": { "test": "node test/esmod-all.js" },
+  "directories": { "test": "test" },
+
+  "files": [
+    "esm.js",
+    "esm/loader.js",
+    "index.js"
+  ],
+
+  "engines": { "npm": ">=7.0.0", "node": ">=8.0.0" },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
