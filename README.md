@@ -27,7 +27,9 @@ version works for me, so I'll publish it anyway [as was requested][npm-plz].
 
 
 -----
+
 Read below: The Agoric Labs esm README.
+
 -----
 
 # Compatibility with Node.js 12+ ESM
