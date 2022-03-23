@@ -1,5 +1,5 @@
 { "name": "agoric-labs-esm-built-pmb",
-  "version": "0.0.1",
+  "version": "3.2.25",
   "description": "esm from Agoric Labs (forked from standard-things) packaged for npm.",
   "keywords": [
     "esm"
